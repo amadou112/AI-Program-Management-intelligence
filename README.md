@@ -1,4 +1,4 @@
-# Sidibe Enterprises AI Program Intelligence Platform
+# Enterprises AI Program Intelligence Platform
 
 > AI-powered enterprise platform that helps Program Managers analyze project documentation, monitor risks, generate executive reports, and gain real-time insights using artificial intelligence.
 
@@ -133,9 +133,7 @@ AI Technical Program Manager | PgMP-PMP-SAFe-SPC| AI/ML Enthusiast
 
 Experienced in delivering enterprise software solutions, Agile Program Management, AI-driven applications, and cloud technologies.
 
-Website: https://sidibeenterprise.com
 
-GitHub: https://github.com/amadou112
 
 ---
 
